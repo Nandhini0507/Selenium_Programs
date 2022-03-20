@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [TestNGFramework]">
+  <test name="FlipKart_MobileSerach_PrintvalueinConsole(failed)">
+    <classes>
+      <class name="TestNGFramework.FlipkartTestNG">
+        <methods>
+          <include name="b_printValue"/>
+        </methods>
+      </class> <!-- TestNGFramework.FlipkartTestNG -->
+    </classes>
+  </test> <!-- FlipKart_MobileSerach_PrintvalueinConsole(failed) -->
+</suite> <!-- Failed suite [TestNGFramework] -->

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNGFramework">
+	<test name="JpetTestNG_register">
+		<classes>
+			<class name="TestNGFramework.JpetTestNG"></class>
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="SauceTestNG_Login_Logout">
+		<classes>
+			<class name="TestNGFramework.SauceTestNG"></class>
+		</classes>
+	</test> <!-- Test -->
+	
+</suite> <!-- Suite -->
